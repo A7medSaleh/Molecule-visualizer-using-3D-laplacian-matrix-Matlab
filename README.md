@@ -1,7 +1,7 @@
 # Molecule-visualizer-using-3D-laplacian-matrix-Matlab
 
 Get the code from here: 
-https://gum.co/BTsRs 
+https://gum.co/cuDGz
  
 Watch code from here 
 https://www.youtube.com/watch?v=x9NSgANyWSI
@@ -11,7 +11,7 @@ The code is implemented in a GUI (user friendly) to facilitate using the program
 
 Contact me: 
 email: s-ahmed.saleh@zewailcity.edu.eg 
-List of all my codes: https://gumroad.com/ahmed_s
+List of all my codes: https://gumroad.com/ahmedsaleh
  
 Hire me directly on freelancer: 
 https://www.freelancer.com/u/AhmedSobhiSaleh 
